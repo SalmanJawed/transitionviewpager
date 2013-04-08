@@ -23,7 +23,7 @@ import com.nineoldandroids.view.ViewHelper;
 
 public class TransitionViewPager extends ViewPager {
 
-	public static final String TAG = "JazzyViewPager";
+	public static final String TAG = "TransitionViewPager";
 
 	private boolean mEnabled = true;
 	private boolean mFadeEnabled = false;
